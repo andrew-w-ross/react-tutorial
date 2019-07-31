@@ -1,6 +1,6 @@
 import React from 'react';
 import { render } from 'react-dom';
-import Hello from './Hello';
+import Game from './Game';
 
 
-render(<Hello />, document.getElementById("root"));
+render(<Game />, document.getElementById("root"));
